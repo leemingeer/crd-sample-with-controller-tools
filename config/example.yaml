@@ -1,0 +1,6 @@
+apiVersion: ming.k8s.io/v1
+kind: Bar
+metadata:
+  name: "test-crd"
+spec:
+  name: "test bar"
